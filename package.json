@@ -1,0 +1,23 @@
+{
+  "name": "sprint2--ita-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreTruss/Sprint2--ITA-React.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreTruss/Sprint2--ITA-React/issues"
+  },
+  "homepage": "https://github.com/AndreTruss/Sprint2--ITA-React#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2"
+  }
+}
